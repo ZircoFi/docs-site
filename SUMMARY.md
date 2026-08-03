@@ -3,3 +3,4 @@
 ## Introduction
 
 * [What is ZircoFi](README.md)
+* [Why now](introduction/why-now.md)
