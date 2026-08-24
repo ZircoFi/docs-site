@@ -50,3 +50,7 @@
 * [Security programme](architecture/security.md)
 * [Deployment](architecture/deployment.md)
 * [Platform](architecture/platform.md)
+
+## Using ZircoFi
+
+* [For traders](users/traders.md)
