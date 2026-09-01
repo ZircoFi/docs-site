@@ -1,5 +1,5 @@
 ---
-description: A practical guide for professional makers: admission, quoting, settlement and the vault-rebalancing trade.
+description: "A practical guide for professional makers: admission, quoting, settlement and the vault-rebalancing trade."
 ---
 
 # For market makers

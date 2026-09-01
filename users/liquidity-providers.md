@@ -1,5 +1,5 @@
 ---
-description: A practical guide to funding vaults: depositing, earning, monitoring and exiting.
+description: "A practical guide to funding vaults: depositing, earning, monitoring and exiting."
 ---
 
 # For liquidity providers
