@@ -4,13 +4,7 @@ description: Swap tokenized real-world assets on Robinhood Chain, with every quo
 
 # What is ZircoFi
 
-<figure><img src=".gitbook/assets/logo-mark.png" alt="ZircoFi" width="160"><figcaption></figcaption></figure>
-
 ZircoFi is a non-custodial swap venue for tokenized real-world assets on Robinhood Chain. Traders swap Stock Tokens (tokenized AAPL, NVDA, SPY and so on), and over time tokenized treasuries and gold, against USDG at prices anchored to the same Chainlink feeds that price the assets everywhere else. Every quote, every fill and every fee settles on Robinhood Chain, where anyone can inspect it.
-
-{% hint style="info" %}
-ZircoFi is live on Robinhood Chain (chain ID 4663). Open the platform at [zircofi.com/platform](https://zircofi.com/platform). Trading is available to verified, eligible participants. Nothing in these documents is investment advice.
-{% endhint %}
 
 ## The idea in one paragraph
 
