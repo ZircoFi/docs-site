@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: ZircoFi
+  structure:
+    - type: space
+      key: space-docs
+      title: ZircoFi Docs
+      path: docs
+      default: true
+      content:
+        directory: ./
