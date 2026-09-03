@@ -29,4 +29,4 @@ The guardian can pause quoting and settlement immediately, because a live incide
 
 ## Who governs
 
-Today, the foundation multisig, with named signers and published thresholds (see [Corporate structure](../compliance/corporate-structure.md)). The planned governance module inherits exactly the powers above and the same prohibitions; it is a change of who proposes, not of what proposing can do. There is no protocol token, and governance is not a yield product: the only thing at stake in a ZircoFi parameter vote is the quality of the venue.
+Today, the foundation multisig, with named signers and published thresholds (see [Corporate structure](../compliance/corporate-structure.md)). The planned governance module inherits exactly the powers above and the same prohibitions; it is a change of who proposes, not of what proposing can do. The $ZIRCO token is live on Robinhood Chain at `0x13a03170db84842fa4c957bad44d852c3169e1e5` (see [Business model](../resources/business-model.md)). Governance is not a yield product: the only thing at stake in a ZircoFi parameter vote is the quality of the venue.

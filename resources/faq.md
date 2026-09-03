@@ -44,7 +44,7 @@ A formula over public state: Chainlink mid, tier spread, regime multiplier, inve
 The contracts keep quoting from on-chain state, withdrawals remain unconditional, and the services are open source for anyone to run. See [Corporate structure](../compliance/corporate-structure.md).
 
 **Is there a token or airdrop?**
-No, and none is planned. See [Business model](business-model.md).
+The $ZIRCO token is live on Robinhood Chain at `0x13a03170db84842fa4c957bad44d852c3169e1e5`. Always verify the address against this documentation site and [zircofi.com](https://zircofi.com) before interacting with it. See [Business model](business-model.md).
 
 **Why should I trust the execution?**
 You should not have to: every fill's itemised breakdown is on-chain, and the venue publishes its distance from the reference price on every fill, unfiltered, at [Execution quality](../transparency/execution-quality.md).

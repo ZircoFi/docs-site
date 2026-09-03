@@ -36,7 +36,7 @@ Full protocol on Robinhood Chain testnet against Robinhood's testnet Stock Token
 
 ## Phase 4: governance handover
 
-The governance module takes over parameter control from the foundation multisig, preserving the timelock, the published rationale and the [prohibitions](../transparency/governance.md). No token; the handover changes who proposes, not what proposing can do.
+The governance module takes over parameter control from the foundation multisig, preserving the timelock, the published rationale and the [prohibitions](../transparency/governance.md). The handover changes who proposes, not what proposing can do.
 
 ## What is deliberately not on this roadmap
 

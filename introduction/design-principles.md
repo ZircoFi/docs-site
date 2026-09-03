@@ -38,6 +38,6 @@ A single sequencer can go down while the underlying market keeps moving. Oracles
 
 ## What these principles rule out
 
-* No protocol token and no emissions. Liquidity is paid from real spread revenue or not at all.
+* No emissions-funded liquidity. Liquidity is paid from real spread revenue or not at all.
 * No leverage, margin or liquidations. The venue does one thing.
 * No discretionary intervention in pricing. Parameters change through the timelock; quotes come from the formula.

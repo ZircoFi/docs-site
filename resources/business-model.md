@@ -1,10 +1,10 @@
 ---
-description: How the venue makes money, and why the model needs no token.
+description: How the venue makes money.
 ---
 
 # Business model
 
-ZircoFi earns a small, itemised share of the value it delivers: fees on fills and a share of vault spread revenue. Nothing else. No token, no emissions, no payment for order flow, no market-making against users, no data sales.
+ZircoFi earns a small, itemised share of the value it delivers: fees on fills and a share of vault spread revenue. Nothing else. No emissions, no payment for order flow, no market-making against users, no data sales.
 
 ## Revenue lines
 
@@ -31,6 +31,6 @@ At 10M USDG average daily volume and a 12 bps average all-in half-spread: about 
 
 Audits and the bounty, oracle and data services, RPC and indexing, the KYC provider's per-attestation fees, and the team. Fees accrue to the `FeeCollector` and fund these first; the [governance](../transparency/governance.md) log shows allocation once the module takes over.
 
-## Why no token
+## The $ZIRCO token
 
-A venue token would add a subsidy the pricing does not need, a regulatory surface the venue does not want, and an incentive to route decisions toward token holders rather than execution quality. The model above is a toll on real activity; it is small per fill, honest on every ticket, and it scales with exactly the thing the venue exists to maximise.
+The $ZIRCO token is live on Robinhood Chain at `0x13a03170db84842fa4c957bad44d852c3169e1e5`. The revenue model above does not depend on it: fees and the spread share are a toll on real activity, small per fill, itemised on every ticket, and they scale with exactly the thing the venue exists to maximise. Always verify the token address against this documentation site and [zircofi.com](https://zircofi.com) before interacting with it.

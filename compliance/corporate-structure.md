@@ -22,4 +22,4 @@ description: The legal structure behind the protocol and the company that operat
 1. **Today:** parameter changes go through a timelocked multisig held by the foundation, with every proposal published with a rationale.
 2. **Next:** a governance module takes over parameter control. It preserves the properties that matter: the timelock, the public rationale, no fund access, no ability to gate withdrawals, and no ability to touch an individual fill.
 
-There is no protocol token, and the governance module is not a route to introducing one. See [Parameter governance](../transparency/governance.md).
+The $ZIRCO token is live on Robinhood Chain at `0x13a03170db84842fa4c957bad44d852c3169e1e5`. See [Parameter governance](../transparency/governance.md) and [Business model](../resources/business-model.md).
